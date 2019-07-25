@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general sobre un ensamblado se controla mediante lo siguiente
 // conjunto de atributos. Cambie los valores de estos atributos para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("MVCUnitTesting")]
+[assembly: AssemblyTitle("MVCUnitTesting.Tests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MVCUnitTesting")]
+[assembly: AssemblyProduct("MVCUnitTesting.Tests")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como ID de typelib si este proyecto se expone a COM
-[assembly: Guid("9fca8d03-c601-4e12-b2a1-1eea65447456")]
+[assembly: Guid("0ad90ba9-53ea-4c55-adb3-8bcd251cd1b8")]
 
 // La información de versión de un ensamblado consta de los siguientes cuatro valores:
 //
